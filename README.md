@@ -14,5 +14,6 @@ This is a backend service built with **Node.js**, **Express**, and **BullMQ**. I
 
 1. **Clone the Project**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Shashank4132/Bp-Optima-Async-Api-System
    cd Bp-Optima-Async-Api-System
+   npm install
